@@ -1,19 +1,17 @@
 ## Hi there 👋
 
-
+![](https://komarev.com/ghpvc/?username=suzukimain&color=blueviolet)
 
 ###
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="200" alt="git_state" />
-
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzukimain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&rank_icon=github" height="150" alt="languages graph" />
-
-![](https://komarev.com/ghpvc/?username=suzukimain&color=blueviolet)
 </div>
 
 ###
+
+
 
 <details>
   <summary>My status</summary>
