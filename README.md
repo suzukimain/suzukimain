@@ -1,16 +1,26 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=2000&pause=50&color=2DFFB7&background=1656FF00&multiline=true&repeat=false&width=1000&height=130&lines=Hi+there+%F0%9F%91%8B;I+am+primarily+interested+in+AI%2C+deep+learning+and+machine+learning.;+And+I+am+working+on+those+projects." alt="Typing SVG" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png" alt="imgss">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" alt="imgss">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src=imgss>
-</picture>
+<img src="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt=profile_img>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=10&color=2DFFB7&background=1656FF00&multiline=true&repeat=false&width=500&height=80&lines=Hello.;+I+use+python+to+create+various+things+as+a+hobby." alt="Typing SVG" /></a>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzukimain&theme=tokyonight" alt="repos-per-language_img">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzukimain&theme=tokyonight" alt="repos-per-language_img">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzukimain&theme=tokyonight" alt="Shows repos-per-language image.">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suzukimain&theme=tokyonight" alt="most-commit-language_img">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suzukimain&theme=tokyonight" alt="most-commit-language_img">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suzukimain&theme=tokyonight" alt="Shows most-commit-language image.">
+  </picture>
+</div>
 
 
-![](https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzukimain&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzukimain&theme=tokyonight)
