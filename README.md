@@ -1,8 +1,19 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=2000&pause=50&color=2DFFB7&background=1656FF00&multiline=true&repeat=false&width=1000&height=130&lines=Hi+there+%F0%9F%91%8B;I+am+primarily+interested+in+AI%2C+deep+learning+and+machine+learning.;+And+I+am+working+on+those+projects." alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=2000&pause=50&color=&background=1656FF00&multiline=true&repeat=false&width=1000&height=130&lines=Hi+there+%F0%9F%91%8B;I+am+primarily+interested+in+AI%2C+deep+learning+and+machine+learning.;+And+I+am+working+on+those+projects." alt="profile_message">
+  <source media="(prefers-color-scheme: light)" srcset="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=2000&pause=50&color=1406FF&background=1656FF00&multiline=true&repeat=false&width=1000&height=130&lines=Hi+there+%F0%9F%91%8B;I+am+primarily+interested+in+AI%2C+deep+learning+and+machine+learning.;+And+I+am+working+on+those+projects." alt="profile_message">
+  <img src="profile_message" alt="Shows profile message.">
+</picture>
 
 
 <img src="https://komarev.com/ghpvc/?username=suzukimain&color=blueviolet">
-<img src="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt=profile_img>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="main_profile_img">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=0000&tc=22272e&ic=fff&bc=22272e" alt="main_profile_img">
+  <img src="main_profile_img" alt="Shows main profile image.">
+</picture>
+
 
 <div>
   <picture>
