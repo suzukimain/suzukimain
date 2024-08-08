@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=2000&pause=50&color=019CFF&width=800&multiline=true&width=1000&height=130&lines=Hi+there+%F0%9F%91%8B;I+am+primarily+interested+in+AI%2C+deep+learning+and+machine+learning.;+And+I+am+working+on+those+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=2000&pause=50&color=019CFF&width=800&multiline=true&width=1000&height=160&lines=Hi+there+%F0%9F%91%8B;I+am+primarily+interested+in+AI%2C+deep+learning+and+machine+learning.;+And+I+am+working+on+those+projects.)](https://git.io/typing-svg)
 
 
 <img src="https://komarev.com/ghpvc/?username=suzukimain&color=blueviolet">
