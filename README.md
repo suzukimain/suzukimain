@@ -6,7 +6,16 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=suzukimain&color=blueviolet">
-<img src="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt=profile_img>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt=profile_img>
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-stats-alpha.vercel.app/api?username=suzukimain&cc=0000&tc=37BCF6&ic=22272e&bc=22272e" alt=profile_img">
+  <img src="profile-details_img" alt="Shows profile-details image.">
+</picture>
+
+
 
 <div>
   <picture>
